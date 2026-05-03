@@ -1,5 +1,6 @@
+
 <h1 align="center">Aditya Pandey</h1>
-<h3 align="center">Flutter Developer • Production Mobile Engineer • 10+ Live Apps Shipped</h3>
+<h3 align="center">Flutter Developer • Production Mobile Engineer • 12+ Live Apps Shipped</h3>
 
 <p align="center">
 📱 2.8+ Years Experience • 🚀 Startup Builder • 🔥 End-to-End Product Ownership
@@ -9,13 +10,14 @@
 
 ## 🧠 About Me
 
-I’m a Flutter Developer with **2.8 years of hands-on production experience**, building scalable Android and iOS applications across service, logistics, social media, delivery, and business platforms.
+I’m a Flutter Developer with **2.8 years of hands-on production experience**, building scalable Android and iOS applications across service, logistics, AI, social media, delivery, learning, and business platforms.
 
 I’ve worked in fast-paced startup environments where I:
 
-- Built complete customer, vendor, driver, and staff applications
-- Designed real-world business workflows
-- Owned the full lifecycle — development, optimization, deployment, and maintenance
+- Built complete customer, vendor, driver, admin, and staff applications  
+- Designed real-world business workflows  
+- Owned the full lifecycle — development, optimization, deployment, scaling, and maintenance  
+- Delivered production apps for Android, iOS, and Web platforms  
 
 I focus on building **clean, scalable, and maintainable Flutter applications** designed for real users — not demo projects.
 
@@ -24,10 +26,11 @@ I focus on building **clean, scalable, and maintainable Flutter applications** d
 ## 🔥 What I Actually Do
 
 ✔ Build and maintain production Flutter apps  
-✔ Architect scalable mobile structures  
-✔ Develop real-time features and workflow-driven apps  
-✔ Optimize performance for live production environments  
+✔ Architect scalable mobile codebases  
+✔ Develop real-time features and workflow-driven systems  
+✔ Optimize performance for live users  
 ✔ Publish and maintain apps on Play Store & App Store  
+✔ Integrate backend systems, APIs, payments, maps, AI & notifications  
 
 ---
 
@@ -35,8 +38,10 @@ I focus on building **clean, scalable, and maintainable Flutter applications** d
 
 ### 📱 Mobile Development
 - Flutter (Android & iOS)
+- Dart
 - Clean Architecture / MVVM / MVC
-- Custom UI & Performance Optimization
+- Custom UI / Pixel Perfect Design
+- Performance Optimization
 
 ### 🧩 State Management
 - Bloc & Cubit
@@ -46,24 +51,32 @@ I focus on building **clean, scalable, and maintainable Flutter applications** d
 
 ### 🌐 API & Networking
 - REST API Integration
-- Token-based authentication
-- Dio interceptors & error handling
+- Dio
+- Token Authentication
+- Secure Storage
+- Error Handling & Interceptors
 
 ### 🔥 Firebase Ecosystem
 - Firebase Auth
 - Firestore
-- Push Notifications (FCM)
+- FCM Push Notifications
 - Firebase Storage
+- Analytics / Crashlytics
 
 ### 🗺 Integrations
-- Google Maps & Live Tracking
+- Google Maps
+- Live Tracking
 - Booking & Scheduling Systems
 - Payment Gateway Integration
-- Subscription & Renewal Flows
+- Subscription Flows
+- Social Login
+- Deep Linking
 
 ### 🛠 Backend & Databases
 - Node.js / Express
-- MongoDB / MySQL
+- MongoDB
+- MySQL
+- Basic Deployment & Server Handling
 
 ---
 
@@ -72,8 +85,11 @@ I focus on building **clean, scalable, and maintainable Flutter applications** d
 - 🍔 Food Delivery Applications  
 - ⚡ Quick-Commerce / Blinkit-Type Apps  
 - 🚚 Driver & Logistics Applications  
-- ✈️ Travel & Location-Based Platforms  
-- 📸 Social Media & Feed-Based Apps  
+- ✈️ Travel & Social Networking Platforms  
+- 🤖 AI-Powered Mobile Applications  
+- 📚 EdTech / LMS Platforms  
+- 💼 Business Workflow Apps  
+- 📸 Feed / Community Based Platforms  
 
 ---
 
@@ -83,33 +99,60 @@ I focus on building **clean, scalable, and maintainable Flutter applications** d
 Android: https://play.google.com/store/apps/details?id=com.subscart.app.subscart  
 iOS: https://apps.apple.com/in/app/subscart/id6747114862  
 
+**Subscription commerce platform with ordering, recurring delivery, account management, and customer workflows.**
+
 ---
 
 ### 🌐 OneConnectify
 Android: https://play.google.com/store/apps/details?id=com.connectify.one  
 Web: https://oneconnectify.com/
 
+**Business networking and digital connection platform.**
+
 ---
 
-### 📚 Areness (Built From Scratch)
-Production learning platform application.
+### 🤖 HiFam AI
+iOS: https://apps.apple.com/us/app/hifam-ai/id6760566077
+
+**AI-powered mobile application focused on smart user interaction, assistant experiences, and modern engagement flows.**
+
+---
+
+### ✈️ Been Around
+iOS: https://apps.apple.com/us/app/been-around/id6747937794
+
+**Location-based social travel platform with maps, user discovery, travel memories, social feed, and community interactions.**
+
+---
+
+### 📚 Areness
+Production learning platform built from scratch.
+
+**Online education platform with structured learning flows and scalable content systems.**
 
 ---
 
 ### 📖 LMS Rec
-https://play.google.com/store/apps/details?id=com.rec.lms_practice
+Android: https://play.google.com/store/apps/details?id=com.rec.lms_practice
+
+**Learning management and practice platform.**
 
 ---
 
 ### ⚖️ Lawterv / CMS
-https://play.google.com/store/apps/details?id=com.cmsapp.cms
+Android: https://play.google.com/store/apps/details?id=com.cmsapp.cms
+
+**Legal/business workflow system with management operations.**
 
 ---
 
 ### 🧾 Additional Production Systems
-- Driver / Vendor / Staff Apps (Internal Distribution)
-- ODR Sandhee (Internal)
-- Pay Veda (Internal)
+
+- Driver / Vendor / Staff Apps  
+- Internal Delivery Operations Apps  
+- ODR Sandhee  
+- Pay Veda  
+- Admin Dashboards & CMS Panels  
 
 ---
 
@@ -139,6 +182,8 @@ https://play.google.com/store/apps/details?id=com.cmsapp.cms
 - Architecture over shortcuts  
 - Performance matters  
 - Maintainable code > quick hacks  
+- Real business impact > flashy UI only  
+- Build for scale, not just launch  
 
 ---
 
