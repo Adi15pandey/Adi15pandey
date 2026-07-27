@@ -3,7 +3,7 @@
 <h3 align="center">Flutter Developer • Production Mobile Engineer • 12+ Live Apps Shipped</h3>
 
 <p align="center">
-📱 2.8+ Years Experience • 🚀 Startup Builder • 🔥 End-to-End Product Ownership
+📱 3+ Years Experience • 🚀 Startup Builder • 🔥 End-to-End Product Ownership
 </p>
 
 ---
