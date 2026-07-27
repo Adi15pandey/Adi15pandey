@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-I’m a Flutter Developer with **2.8 years of hands-on production experience**, building scalable Android and iOS applications across service, logistics, AI, social media, delivery, learning, and business platforms.
+I’m a Flutter Developer with **3 years of hands-on production experience**, building scalable Android and iOS applications across service, logistics, AI, social media, delivery, learning, and business platforms.
 
 I’ve worked in fast-paced startup environments where I:
 
